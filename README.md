@@ -7,6 +7,15 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
+## 자신있는 코드
+
+- Java
+  - [Typesafe Heterogeneous Container](https://github.com/ghojeong/Effective-Java-Study/blob/main/pyro/item33.md)
+  - [DI 프레임워크 바닐라 Java 로 구현](https://github.com/ghojeong/playground/tree/main/dependency/src/main/java/ioc)
+- Javascript
+  - [비동기](https://github.com/ghojeong/resume/blob/master/code/js/runTasks.js)
+  - [redux-observable](https://github.com/ghojeong/resume/blob/master/code/README.md)
+
 ## Experience
 
 4년차 웹 개발자입니다.
