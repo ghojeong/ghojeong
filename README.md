@@ -18,17 +18,14 @@
 
 ## Experience
 
-4년차 웹 개발자입니다.
-
 - [Dreamfora](https://dreamfora.com/): 2021 -
-  - Spring + Java
+  - Kotlin, Android, Room, Hilt
 - [Ecube Labs](https://www.ecubelabs.com/): 2018 - 2020
-  - [React + Typescript](https://github.com/ghojeong/resume/blob/master/ecubelabs/README.md)
+  - [Typescript, React, Redux, RxJS](https://github.com/ghojeong/resume/blob/master/ecubelabs/README.md)
 
 ## Education
 
 - [코드스쿼드 백엔드 마스터즈 코스](https://codesquad.kr/page/masters/be.html)
-- [오픈소스 컨트리뷰톤](https://github.com/ghojeong/resume/tree/master/community#%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EC%BB%A8%ED%8A%B8%EB%A6%AC%EB%B7%B0%ED%86%A4-%EC%88%98%EC%83%81)
 - [한빛미디어 공감 주니어](http://www.hanbit.co.kr/store/education/edu_view.html?p_code=S3414110334)
 - UNIST 컴퓨터 공학 학사
 
