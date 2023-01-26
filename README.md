@@ -1,4 +1,4 @@
-# Say Hello To Pyro! <img src="img/fire.gif">
+# Pyro(波而爐) <img src="img/fire.gif">
 
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -17,14 +17,14 @@
   - [비동기](https://github.com/ghojeong/resume/blob/master/code/js/runTasks.js)
   - [redux-observable](https://github.com/ghojeong/resume/blob/master/code/README.md)
 
-## Experience
+## 경험
 
 - [Dreamfora](https://dreamfora.com/): 2021 -
   - Kotlin, Android, Room, Hilt
 - [Ecube Labs](https://www.ecubelabs.com/): 2018 - 2020
   - [Typescript, React, Redux, RxJS](https://github.com/ghojeong/resume/blob/master/ecubelabs/README.md)
 
-## Education
+## 교육
 
 - [코드스쿼드 백엔드 마스터즈 코스](https://codesquad.kr/page/masters/be.html)
 - [한빛미디어 공감 주니어](http://www.hanbit.co.kr/store/education/edu_view.html?p_code=S3414110334)
