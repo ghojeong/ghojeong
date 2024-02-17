@@ -7,8 +7,6 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-[![Pyro Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ghojeong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 ## 자신있는 코드
 
 - Java
@@ -21,16 +19,18 @@
 
 ## 경험
 
-- [Dreamfora](https://dreamfora.com/): 2021 -
+- [Dreamfora](https://dreamfora.com): 2021 -
   - Kotlin, Android, Room, Hilt
-- [Ecube Labs](https://www.ecubelabs.com/): 2018 - 2020
+- [Ecube Labs](https://www.ecubelabs.com): 2018 - 2020
   - [Typescript, React, Redux, RxJS](https://github.com/ghojeong/resume/blob/master/ecubelabs/README.md)
 
 ## 교육
 
-- [코드스쿼드 백엔드 마스터즈 코스](https://codesquad.kr/page/masters/be.html)
-- [한빛미디어 공감 주니어](http://www.hanbit.co.kr/store/education/edu_view.html?p_code=S3414110334)
-- [과학기술원 컴퓨터 공학](https://cse.unist.ac.kr) 성적 우수 졸업 (알고리즘 A+, 데이터구조 A, 데이터베이스 A-, 운영체제 A-, 네트워크 A-)
+- [우아한테크코스](https://www.woowacourse.io) 리뷰어
+- [코드스쿼드 백엔드 마스터즈](https://codesquad.kr) 수료
+- [한빛미디어 공감 주니어](http://www.hanbit.co.kr/store/education/edu_view.html?p_code=S3414110334) 강사
+- [과학기술원 컴퓨터공학](https://cse.unist.ac.kr) 성적 우수 졸업 
+  - 알고리즘 A+, 데이터구조 A, 데이터베이스 A-, 운영체제 A-, 네트워크 A-
 
 ## 보유기술
 
