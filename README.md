@@ -30,7 +30,7 @@
 
 - [코드스쿼드 백엔드 마스터즈 코스](https://codesquad.kr/page/masters/be.html)
 - [한빛미디어 공감 주니어](http://www.hanbit.co.kr/store/education/edu_view.html?p_code=S3414110334)
-- UNIST 컴퓨터 공학 학사
+- [과학기술원 컴퓨터 공학](https://cse.unist.ac.kr) 성적 우수 졸업 (알고리즘 A+, 데이터구조 A, 데이터베이스 A-, 운영체제 A-, 네트워크 A-)
 
 ## 보유기술
 
