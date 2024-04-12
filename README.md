@@ -27,6 +27,10 @@
 ## 교육
 
 - [우아한테크코스](https://www.woowacourse.io) 리뷰어
+- NEXTSTEP 리뷰어
+  - [만들면서 배우는 JPA](https://edu.nextstep.camp/c/UHESCzBt)
+  - [만들면서 배우는 Spring](https://edu.nextstep.camp/c/4YUvqn9V)
+  - [TDD, 클린 코드 with Java](https://edu.nextstep.camp/c/8fWRxNWU)
 - [코드스쿼드 백엔드 마스터즈](https://codesquad.kr) 수료
 - [한빛미디어 공감 주니어](http://www.hanbit.co.kr/store/education/edu_view.html?p_code=S3414110334) 강사
 - [과학기술원 컴퓨터공학](https://cse.unist.ac.kr) 성적 우수 졸업 
