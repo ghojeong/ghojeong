@@ -2,7 +2,7 @@
 
 ## 경력 (6년차)
 
-- [Dreamfora](https://github.com/ghojeong/resume/blob/main/dreamfora/README.md) 백엔드 테크리드 *(2021.8.25 - )*
+- [Dreamfora](https://github.com/ghojeong/resume/blob/main/dreamfora/README.md) 백엔드 테크리드 *(2021.08.25 - 2025.03.25)*
   - Java, Spring Boot, Spring Security, JPA, MariaDB
   - 200만 유저가 사용하는 B2C 목표관리 서비스를 개발 및 운영
 - [Ecube Labs](https://github.com/ghojeong/resume/blob/main/ecubelabs/README.md) 웹 개발자 *(2018.10.15 - 2020.12.28)*
