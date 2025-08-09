@@ -2,6 +2,9 @@
 
 ## 경력 (6년차)
 
+- [SumOne](https://www.monymony.co/) 백엔드 개발자 *(2025.05.12 - 2025.08.14)
+  - TypeScript, NestJS, GraphQL, PostgreSQL, DynamoDB
+  - DAU 120만명 커플 다이어리 서비스의 구독 결제와 DB의 Hashed Sharding 업무 수행
 - [Dreamfora](https://github.com/ghojeong/resume/blob/main/dreamfora/README.md) 백엔드 테크리드 *(2021.08.25 - 2025.03.25)*
   - Java, Spring Boot, Spring Security, JPA, MariaDB
   - 200만 유저가 사용하는 B2C 목표관리 서비스를 개발 및 운영
@@ -9,7 +12,7 @@
   - Typescript, React, Redux, RxJS
   - 미국 볼티모어, 일본 이치카와, 한국 고양시와 계약한 B2B 스마트 시티 SaaS를 개발 및 운영
 - [NECSST](https://next.cs.vt.edu) 인턴 *(2018.06.04 - 2018.09.21)*
-  - InfiniBand 환경에서의 RDMA 를 활용한 Aggregated Data Center 연구에 참여
+  - InfiniBand 환경에서 RDMA 기반 Aggregated Data Center 연구에 참여
 
 ## 교육
 
@@ -19,7 +22,7 @@
   - [만들면서 배우는 JPA](https://edu.nextstep.camp/c/UHESCzBt)
   - [만들면서 배우는 Spring](https://edu.nextstep.camp/c/4YUvqn9V)
   - [TDD, 클린 코드 with Java](https://edu.nextstep.camp/c/8fWRxNWU)
-- [한빛미디어 공감 주니어](http://www.hanbit.co.kr/store/education/edu_view.html?p_code=S3414110334) 강사
+- [한빛미디어 공감 주니어](https://www.onoffmix.com/event/183044) 강사
 - [코드스쿼드 백엔드 마스터즈](https://codesquad.kr) 수료
 
 ## 보유기술
