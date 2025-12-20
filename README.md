@@ -4,7 +4,7 @@
 
 - [SumOne](https://www.monymony.co/) 백엔드 개발자 *(2025.05.12 - 2025.08.14)*
   - TypeScript, NestJS, GraphQL, PostgreSQL, DynamoDB
-  - DAU 120만명 커플 다이어리 서비스의 구독 결제와 DB의 Hashed Sharding 업무 수행
+  - 1900만 회원의 커플 다이어리 서비스 DB를 PostgreSQL 에서 DynamoDB 로 마이그레이션
 - [Dreamfora](https://github.com/ghojeong/resume/blob/main/dreamfora/README.md) 백엔드 테크리드 *(2021.08.25 - 2025.03.25)*
   - Java, Spring Boot, Spring Security, JPA, MariaDB
   - 200만 유저가 사용하는 B2C 목표관리 서비스를 개발 및 운영
